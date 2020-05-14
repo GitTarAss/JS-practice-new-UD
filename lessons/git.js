@@ -1,10 +1,11 @@
 'use strict';
 // Система контроля версий => Git
 /*
-git status
-git add -A
-git commit -a -m"first commit"
-git push -u
+// После работы в проекте в конце дня нужно заливать всю инфу на GitHub такими командами:
+1 - git status
+2 - git add -A
+3 - git commit -a -m"first commit"
+4 - git push
 
 */
 /* 
@@ -59,6 +60,10 @@ git push -u
 ////Comand////  git remote add origin https://github.com/GitTarAss/JS-practice-new-UD.git
 // Ми привезали нашу папку на ПК в конкретной папке на GitHub
 ////Comand////  git push -u origin master  // Переноси (пушем) файлы с ПК на GitHub 
+
+////Comand////  git push  // Эта команда добавляет все файли в репозиторий на GitHub так как выше мы прописали -u что указало путь для сохнанения
+
+////Comand////  git pull   // Добавить, сенхронизовать данные с онлайн репозитория на ПК
 
 
 */
