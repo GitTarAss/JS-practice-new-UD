@@ -73,21 +73,22 @@ const isChecked = true,
 
 console.log(isChecked && isClose); //В консоль выедется => false
 */
-
+/*
 const isChecked = true,
       isClose = false;
 
 console.log(isChecked || isClose); //В консоль выедется => true
-
+*/
 ///////////////////////////////////////////////
 // Оператор - Логическое отрицание ' ! '
 // ! - Обращает значение в обратное 
 
+/*
 const isChecked = true,
       isClose = false;
 
 console.log(isChecked || isClose); //В консоль выедется => true
-
+*/
 const isChecked = true,
       isClose = false;
 
